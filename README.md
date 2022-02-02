@@ -3,7 +3,7 @@
 #### About Me 👩🏼‍💻
 
 - Senior Software Engineer at QuantumBlack, part of McKinsey & Company
-- Maintainer on [**Kedro**](https://github.com/quantumblacklabs/kedro/) 
+- Maintainer on [**Kedro**](https://github.com/kedro-org/kedro/) 
 - My pronouns are she/her/hers 
 - I'm originally from the Netherlands 🇳🇱  but currently living in London 🇬🇧
 
@@ -11,7 +11,7 @@
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=MerelTheisenQB&hide=stars&show_icons=true&hide_title=true&hide_border=true&title_color=9ff21e&icon_color=f5429b)](https://github.com/MerelTheisenQB)
 
 #### Get in Touch ☎️
-- Kedro: [github.com/quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro/)
+- Kedro: [github.com/kedro-org/kedro](https://github.com/kedro-org/kedro/)
 - LinkedIn: [@mereltheisen](https://www.linkedin.com/in/merel-theisen-30087b52/)
 
 #### Talks & posts 🦄
