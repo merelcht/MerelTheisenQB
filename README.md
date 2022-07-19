@@ -2,8 +2,8 @@
 
 #### About Me 👩🏼‍💻
 
-- Senior Software Engineer at QuantumBlack, part of McKinsey & Company
-- Maintainer on [**Kedro**](https://github.com/kedro-org/kedro/) 
+- Junior Principal Software Engineer at QuantumBlack, AI by McKinsey & Company
+- Tech lead and maintainer on [**Kedro**](https://github.com/kedro-org/kedro/) 
 - My pronouns are she/her/hers 
 - I'm originally from the Netherlands 🇳🇱  but currently living in London 🇬🇧
 
